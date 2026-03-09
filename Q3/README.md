@@ -1,0 +1,1 @@
+metode yang di timpa ialah work() untuk outputnya "Programmer writes code" dan untuk metode yang di wariskan ialah attendMeeting() untuk outputnya "Employee attends meeting"
